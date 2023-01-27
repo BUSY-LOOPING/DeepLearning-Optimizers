@@ -4,7 +4,7 @@ Visualization of popular Deep Learning optimizers built upon Gradient Descent.
 ## Cost Function
 $z = x^2 - y^2$ , or, $J = \theta_1^2 - \theta_2^2$
 
-<img src="./saved/pic2.png" height = "250"/>
+<img src="saved/pic2.svg" height = "250"/>
 
 ## Optimizers
 ### Vanilla Gradient Descent
@@ -18,6 +18,9 @@ $z = x^2 - y^2$ , or, $J = \theta_1^2 - \theta_2^2$
 
 ### AdaDelta
 <img src="saved/adadelta._3d.svg" height = "250"/>
+
+### Adam
+<img src="saved/adam.svg" height = "250"/>
 
 ## Costs Comparison
 <img src="saved/costs_compare.svg" height = "250"/>
